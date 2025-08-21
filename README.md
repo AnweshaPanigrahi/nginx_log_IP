@@ -29,7 +29,3 @@ Run the analyzer with your log file:
 ./nginx-log.sh logs
 ```
 
-
-```bash
-./server-stats.sh
-```
