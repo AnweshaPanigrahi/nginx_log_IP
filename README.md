@@ -26,6 +26,6 @@ chmod +x nginx-log.sh
 
 Run the analyzer with your log file:
 ```bash
-./nginx-log.sh logs
+./nginx-log.sh 
 ```
 
